@@ -1,0 +1,8354 @@
+[
+  {
+    "file": "IN_001.153.04.26.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_001.164.04.26.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_001.173.04.26.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_001255.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_001319.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_001321.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_001518.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_002.163.04.26.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_002.173.04.26.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_003.173.04.26.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_00831-04-26.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_00842-04-26.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_01011-05-26.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_0168.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_0178.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_0189.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_01TMMINIV26.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_029NTC0426.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_030NTC0426.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_0345.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_0424 TMMIN.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_0429 TMMIN.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_0496.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_2023ARSAD000012678-0002.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_2023ARSAD000012679-0001.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_2026.05.0001.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_2026.05.0002.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31727.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31728.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31729.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31730.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31731.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31732.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31733.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31734.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31736.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31737.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31738.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31739.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31740.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31741.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_5110076277.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_96273283.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_ATI-2310-1739-L.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_CD2026001174.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_CD2026001175.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_CD2026001186.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_CDT00112605013..pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_CDT00112605025.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_GT-eInvoice TMMIN_0353FGT0426.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_GT-eInvoice TMMIN_QR 0354FGT0426.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_GT-eInvoice TMMIN_QR 0393FGT0426.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_GT-eInvoice TMMIN_QR.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INDD-2310-001077_INVOICE.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INDD-2310-001078_INVOICE.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV 001.160.04.26.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV 0033_compressed.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV 006 - TMMIN 2026.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV 187428 DIW.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV TMMIN 00416 APR26.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV TMMIN 00417 APR26.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV TMMIN 00418 APR26.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV TMMIN 00420 APR26.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV TMMIN 00451 APR26.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV TMMIN 26.001283.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV TMMIN APR26 01956.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV TMMIN APR26 01959.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV TMMIN APR26 01960.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV-26.05-0004.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV-26.05-0005.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV-26.05-0011.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV-ID-0005023.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 2,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 3,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV00019.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_Inv TMMIN 00000189.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 2,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 3,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 4,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 5,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_Inv TMMIN 00000196.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 2,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 3,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 4,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 5,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_Inv TMMIN 00000198.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 2,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 3,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 4,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_Inv TMMIN 00000202.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 2,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 3,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 4,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 5,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_Inv TMMIN 00000203.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 2,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 3,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 4,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 5,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_Invoice 2406.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_JPP11730_TOYOTA MOTOR MANUFACTURING INDONESIA.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_PT. Ingress Malindo ventures - 0210-2026.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_PT. Ingress Malindo ventures - 0229-2026.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_RI - 23014069.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_RI - 23014073.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_RI - 23014074.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_RI - 23014075.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_RI - 23014076.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_RI - 23014077.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_RI - 23014078.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_RI - 23014079.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_RI - 23014109.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_RI - 23014111.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_SYITDN23001733_INV.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_T034.0055.26.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_T034.0066.26.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_T034.0068.26.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_TMMIN 000378.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_TMMIN 000379.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_invoice2311AR004450.pdf",
+    "kelas": "kelas_1",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_0000.0426007.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_001.153.04.26.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_001.164.04.26.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_001.173.04.26.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_001255.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_001319.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_001321.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_001518.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_002.163.04.26.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_002.173.04.26.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_003.173.04.26.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_00831-04-26.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_00842-04-26.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_01011-05-26.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_0168.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_0178.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_0189.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_01TMMINIV26.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_029NTC0426.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_030NTC0426.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_0345.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_0424 TMMIN.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_0429 TMMIN.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_0496.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_2023ARSAD000012678-0002.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_2023ARSAD000012679-0001.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_2026.05.0001.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_2026.05.0002.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31727.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31728.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31729.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31730.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31731.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31732.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31733.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31734.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31736.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31737.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31738.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31739.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31740.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31741.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_5110076277.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_96273283.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_ATI-2310-1739-L.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_CD2026001174.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_CD2026001175.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_CD2026001186.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_CDT00112605013..pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_CDT00112605025.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_GT-eInvoice TMMIN_0353FGT0426.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_GT-eInvoice TMMIN_QR 0354FGT0426.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_GT-eInvoice TMMIN_QR 0393FGT0426.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_GT-eInvoice TMMIN_QR.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INDD-2310-001077_INVOICE.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INDD-2310-001078_INVOICE.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV 001.160.04.26.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV 0033_compressed.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV 006 - TMMIN 2026.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV 187428 DIW.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV TMMIN 00416 APR26.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV TMMIN 00417 APR26.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV TMMIN 00418 APR26.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV TMMIN 00420 APR26.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV TMMIN 00451 APR26.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV TMMIN 26.001283.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV TMMIN APR26 01956.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV TMMIN APR26 01959.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV TMMIN APR26 01960.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV-26.05-0004.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV-26.05-0005.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV-26.05-0011.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV-ID-0005023.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 2,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 3,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV00019.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_Inv TMMIN 00000189.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 2,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 3,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 4,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 5,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_Inv TMMIN 00000196.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 2,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 3,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 4,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 5,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_Inv TMMIN 00000198.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 2,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 3,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 4,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_Inv TMMIN 00000202.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 2,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 3,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 4,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 5,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_Inv TMMIN 00000203.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 2,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 3,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 4,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 5,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_Invoice 2406.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_JPP11730_TOYOTA MOTOR MANUFACTURING INDONESIA.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_PT. Ingress Malindo ventures - 0210-2026.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_PT. Ingress Malindo ventures - 0229-2026.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_RI - 23014069.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_RI - 23014070.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_RI - 23014073.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_RI - 23014074.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_RI - 23014075.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_RI - 23014076.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_RI - 23014077.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_RI - 23014078.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_RI - 23014079.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_RI - 23014109.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_RI - 23014111.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_SYITDN23001733_INV.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_T034.0055.26.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_T034.0066.26.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_T034.0068.26.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_TMMIN 000378.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_TMMIN 000379.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_invoice2311AR004450.pdf",
+    "kelas": "kelas_2",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_0000.0426007.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_001.153.04.26.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_001.164.04.26.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_001.173.04.26.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_001255.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_001319.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_001321.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_001518.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_002.163.04.26.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_002.173.04.26.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_00831-04-26.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_00842-04-26.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_01011-05-26.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_0168.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_0178.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_0189.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_01TMMINIV26.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_029NTC0426.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_030NTC0426.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_0345.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_0424 TMMIN.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_0429 TMMIN.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_0496.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_2023ARSAD000012678-0002.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_2023ARSAD000012679-0001.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_2026.05.0001.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_2026.05.0002.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31727.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31728.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31729.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31730.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31731.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31732.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31733.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31734.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31736.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31737.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31738.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31739.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31740.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31741.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_5110076277.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_96273283.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_ATI-2310-1739-L.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_CD2026001174.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_CD2026001175.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_CD2026001186.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_CDT00112605013..pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_CDT00112605025.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_GT-eInvoice TMMIN_0353FGT0426.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_GT-eInvoice TMMIN_QR 0354FGT0426.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_GT-eInvoice TMMIN_QR 0393FGT0426.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_GT-eInvoice TMMIN_QR.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INDD-2310-001077_INVOICE.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INDD-2310-001078_INVOICE.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV 001.160.04.26.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV 0033_compressed.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV 006 - TMMIN 2026.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV 187428 DIW.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV TMMIN 00416 APR26.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV TMMIN 00417 APR26.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV TMMIN 00418 APR26.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV TMMIN 00420 APR26.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV TMMIN 00451 APR26.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV TMMIN 26.001283.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV TMMIN APR26 01956.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV TMMIN APR26 01959.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV TMMIN APR26 01960.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV-26.05-0004.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV-26.05-0005.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV-26.05-0011.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV-ID-0005023.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 2,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 3,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV00019.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_Inv TMMIN 00000189.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 2,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 3,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 4,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 5,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_Inv TMMIN 00000196.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 2,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 3,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 4,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 5,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_Inv TMMIN 00000198.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 2,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 3,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 4,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_Inv TMMIN 00000202.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 2,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 3,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 4,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 5,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_Inv TMMIN 00000203.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 2,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 3,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 4,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 5,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_Invoice 2406.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_JPP11730_TOYOTA MOTOR MANUFACTURING INDONESIA.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_PT. Ingress Malindo ventures - 0210-2026.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_PT. Ingress Malindo ventures - 0229-2026.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_RI - 23014069.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_RI - 23014070.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_RI - 23014073.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_RI - 23014074.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_RI - 23014075.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_RI - 23014076.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_RI - 23014077.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_RI - 23014078.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_RI - 23014079.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_RI - 23014109.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_RI - 23014111.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_SYITDN23001733_INV.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_T034.0055.26.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_T034.0066.26.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_T034.0068.26.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_TMMIN 000378.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_TMMIN 000379.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_invoice2311AR004450.pdf",
+    "kelas": "kelas_3",
+    "aggregated": {
+      "meterai_prediksi": 1,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 1,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_0000.0426007.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_001.153.04.26.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_001.164.04.26.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_001255.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_001319.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_001321.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_001518.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_002.163.04.26.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_002.173.04.26.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_003.173.04.26.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_00831-04-26.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_00842-04-26.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_01011-05-26.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_0168.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_0178.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_0189.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_01TMMINIV26.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_029NTC0426.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_030NTC0426.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_0345.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_0424 TMMIN.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_0429 TMMIN.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_0496.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_2023ARSAD000012678-0002.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_2023ARSAD000012679-0001.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_2026.05.0001.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_2026.05.0002.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31727.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31728.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31729.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31730.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31731.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31732.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31733.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31734.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31736.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31737.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31738.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31739.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31740.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_31741.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_5110076277.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_96273283.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_ATI-2310-1739-L.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_CD2026001174.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_CD2026001175.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_CD2026001186.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_CDT00112605013..pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_CDT00112605025.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_GT-eInvoice TMMIN_0353FGT0426.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_GT-eInvoice TMMIN_QR 0354FGT0426.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_GT-eInvoice TMMIN_QR 0393FGT0426.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_GT-eInvoice TMMIN_QR.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INDD-2310-001077_INVOICE.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INDD-2310-001078_INVOICE.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV 001.160.04.26.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV 0033_compressed.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV 006 - TMMIN 2026.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV 187428 DIW.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV TMMIN 00416 APR26.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV TMMIN 00417 APR26.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV TMMIN 00418 APR26.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV TMMIN 00420 APR26.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV TMMIN 00451 APR26.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV TMMIN 26.001283.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV TMMIN APR26 01956.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV TMMIN APR26 01959.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV TMMIN APR26 01960.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV-26.05-0004.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV-26.05-0005.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV-26.05-0011.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV-ID-0005023.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 2,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 3,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_INV00019.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_Inv TMMIN 00000189.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 1
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 1
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 2,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 3,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 4,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 5,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_Inv TMMIN 00000196.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 2,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 3,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 4,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 5,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_Inv TMMIN 00000198.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 2,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 3,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 4,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_Inv TMMIN 00000202.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 2,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 3,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 4,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 5,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_Inv TMMIN 00000203.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 2,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 3,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 4,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 5,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_Invoice 2406.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_JPP11730_TOYOTA MOTOR MANUFACTURING INDONESIA.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_PT. Ingress Malindo ventures - 0210-2026.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_PT. Ingress Malindo ventures - 0229-2026.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_RI - 23014069.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_RI - 23014070.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_RI - 23014073.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_RI - 23014074.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_RI - 23014075.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_RI - 23014076.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_RI - 23014077.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_RI - 23014078.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_RI - 23014079.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_RI - 23014109.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_RI - 23014111.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_SYITDN23001733_INV.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      },
+      {
+        "page": 1,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_T034.0055.26.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_T034.0066.26.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_T034.0068.26.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_TMMIN 000378.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_TMMIN 000379.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  },
+  {
+    "file": "IN_invoice2311AR004450.pdf",
+    "kelas": "kelas_4",
+    "aggregated": {
+      "meterai_prediksi": 0,
+      "ttd_prediksi": 0
+    },
+    "page_by_page": [
+      {
+        "page": 0,
+        "raw": "METERAI: Tidak Ada\nTANDA TANGAN: Tidak Ada",
+        "parsed": {
+          "meterai_prediksi": 0,
+          "ttd_prediksi": 0
+        }
+      }
+    ]
+  }
+]
