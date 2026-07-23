@@ -1,0 +1,138 @@
+============================================================
+LAPORAN EVALUASI LENGKAP
+Konfigurasi : K6 | Few-Shot Tekstual | Two-Pass | Qwen2.5-VL-7B-Instruct
+Model       : qwen2.5-vl-7b-instruct
+Dataset     : ../datasetlengkap
+Total file  : 400
+File valid  : 400
+File error  : 0
+Mulai       : 2026-06-08 20:13:05
+Selesai     : 2026-06-08 20:45:58
+Durasi      : 32.9 menit
+============================================================
+
+RINGKASAN DATASET
+----------------------------------------
+  kelas_1: 99 file [GT Meterai=1, GT TTD=1]
+  kelas_2: 101 file [GT Meterai=0, GT TTD=1]
+  kelas_3: 100 file [GT Meterai=1, GT TTD=0]
+  kelas_4: 100 file [GT Meterai=0, GT TTD=0]
+
+INFERENCE TIME STATISTICS
+----------------------------------------
+  Total API calls   : 1088
+  Total waktu       : 1893.42 detik (31.6 menit)
+  Rata-rata/call    : 1.740 detik
+  Min               : 1.000 detik
+  Max               : 9.754 detik
+  P50 (median)      : 1.490 detik
+  P90               : 2.569 detik
+  P95               : 2.907 detik
+  Rata-rata/file    : 4.734 detik
+
+=======================================================
+HASIL EVALUASI METERAI
+=======================================================
+  Accuracy  : 0.9550
+  Precision : 1.0000
+  Recall    : 0.9095
+  F1-Score  : 0.9526
+
+  Confusion Matrix:
+                Pred=0   Pred=1
+    Actual=0    TN= 201   FP=   0
+    Actual=1    FN=  18   TP= 181
+
+  Rincian per kelas:
+    [kelas_1] n=99 | Benar=81 Salah=18 Acc=81.82% | TP=81 FN=18 FP=0 TN=0
+      [SALAH] IN_31727.pdf (GT=1, Pred=0)
+      [SALAH] IN_31728.pdf (GT=1, Pred=0)
+      [SALAH] IN_31729.pdf (GT=1, Pred=0)
+      [SALAH] IN_31730.pdf (GT=1, Pred=0)
+      [SALAH] IN_31731.pdf (GT=1, Pred=0)
+      [SALAH] IN_31732.pdf (GT=1, Pred=0)
+      [SALAH] IN_31733.pdf (GT=1, Pred=0)
+      [SALAH] IN_31736.pdf (GT=1, Pred=0)
+      [SALAH] IN_31737.pdf (GT=1, Pred=0)
+      [SALAH] IN_31738.pdf (GT=1, Pred=0)
+      [SALAH] IN_31739.pdf (GT=1, Pred=0)
+      [SALAH] IN_31740.pdf (GT=1, Pred=0)
+      [SALAH] IN_31741.pdf (GT=1, Pred=0)
+      [SALAH] IN_CD2026001174.pdf (GT=1, Pred=0)
+      [SALAH] IN_CD2026001175.pdf (GT=1, Pred=0)
+      [SALAH] IN_CD2026001186.pdf (GT=1, Pred=0)
+      [SALAH] IN_INV 006 - TMMIN 2026.pdf (GT=1, Pred=0)
+      [SALAH] IN_TMMIN 000378.pdf (GT=1, Pred=0)
+    [kelas_2] n=101 | Benar=101 Salah=0 Acc=100.00% | TP=0 FN=0 FP=0 TN=101
+    [kelas_3] n=100 | Benar=100 Salah=0 Acc=100.00% | TP=100 FN=0 FP=0 TN=0
+    [kelas_4] n=100 | Benar=100 Salah=0 Acc=100.00% | TP=0 FN=0 FP=0 TN=100
+
+=======================================================
+HASIL EVALUASI TANDA TANGAN
+=======================================================
+  Accuracy  : 0.9150
+  Precision : 0.9770
+  Recall    : 0.8500
+  F1-Score  : 0.9091
+
+  Confusion Matrix:
+                Pred=0   Pred=1
+    Actual=0    TN= 196   FP=   4
+    Actual=1    FN=  30   TP= 170
+
+  Rincian per kelas:
+    [kelas_1] n=99 | Benar=72 Salah=27 Acc=72.73% | TP=72 FN=27 FP=0 TN=0
+      [SALAH] IN_001321.pdf (GT=1, Pred=0)
+      [SALAH] IN_0168.pdf (GT=1, Pred=0)
+      [SALAH] IN_0345.pdf (GT=1, Pred=0)
+      [SALAH] IN_2023ARSAD000012678-0002.pdf (GT=1, Pred=0)
+      [SALAH] IN_2026.05.0001.pdf (GT=1, Pred=0)
+      [SALAH] IN_31730.pdf (GT=1, Pred=0)
+      [SALAH] IN_5110076277.pdf (GT=1, Pred=0)
+      [SALAH] IN_CD2026001186.pdf (GT=1, Pred=0)
+      [SALAH] IN_CDT00112605013..pdf (GT=1, Pred=0)
+      [SALAH] IN_CDT00112605025.pdf (GT=1, Pred=0)
+      [SALAH] IN_GT-eInvoice TMMIN_QR 0354FGT0426.pdf (GT=1, Pred=0)
+      [SALAH] IN_INDD-2310-001077_INVOICE.pdf (GT=1, Pred=0)
+      [SALAH] IN_INV 006 - TMMIN 2026.pdf (GT=1, Pred=0)
+      [SALAH] IN_INV TMMIN 00418 APR26.pdf (GT=1, Pred=0)
+      [SALAH] IN_INV-ID-0005023.pdf (GT=1, Pred=0)
+      [SALAH] IN_INV00019.pdf (GT=1, Pred=0)
+      [SALAH] IN_JPP11730_TOYOTA MOTOR MANUFACTURING INDONESIA.pdf (GT=1, Pred=0)
+      [SALAH] IN_PT. Ingress Malindo ventures - 0229-2026.pdf (GT=1, Pred=0)
+      [SALAH] IN_RI - 23014073.pdf (GT=1, Pred=0)
+      [SALAH] IN_RI - 23014074.pdf (GT=1, Pred=0)
+      [SALAH] IN_RI - 23014077.pdf (GT=1, Pred=0)
+      [SALAH] IN_RI - 23014078.pdf (GT=1, Pred=0)
+      [SALAH] IN_RI - 23014079.pdf (GT=1, Pred=0)
+      [SALAH] IN_RI - 23014111.pdf (GT=1, Pred=0)
+      [SALAH] IN_SYITDN23001733_INV.pdf (GT=1, Pred=0)
+      [SALAH] IN_TMMIN 000378.pdf (GT=1, Pred=0)
+      [SALAH] IN_TMMIN 000379.pdf (GT=1, Pred=0)
+    [kelas_2] n=101 | Benar=98 Salah=3 Acc=97.03% | TP=98 FN=3 FP=0 TN=0
+      [SALAH] IN_0189.pdf (GT=1, Pred=0)
+      [SALAH] IN_2023ARSAD000012678-0002.pdf (GT=1, Pred=0)
+      [SALAH] IN_2026.05.0001.pdf (GT=1, Pred=0)
+    [kelas_3] n=100 | Benar=99 Salah=1 Acc=99.00% | TP=0 FN=0 FP=1 TN=99
+      [SALAH] IN_RI - 23014109.pdf (GT=0, Pred=1)
+    [kelas_4] n=100 | Benar=97 Salah=3 Acc=97.00% | TP=0 FN=0 FP=3 TN=97
+      [SALAH] IN_31734.pdf (GT=0, Pred=1)
+      [SALAH] IN_INV 0033_compressed.pdf (GT=0, Pred=1)
+      [SALAH] IN_INV 006 - TMMIN 2026.pdf (GT=0, Pred=1)
+
+=======================================================
+AKURASI GABUNGAN (kedua atribut benar sekaligus)
+=======================================================
+  Benar keduanya : 352 / 400
+  Accuracy       : 0.8800
+
+=======================================================
+TABEL RINGKASAN METRIK
+=======================================================
+Metrik                  Meterai   Tanda Tangan
+----------------------------------------------
+Accuracy                 0.9550         0.9150
+Precision                1.0000         0.9770
+Recall                   0.9095         0.8500
+F1-Score                 0.9526         0.9091
+Acc. Gabungan            0.8800

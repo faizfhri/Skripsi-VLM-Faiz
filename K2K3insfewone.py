@@ -12,9 +12,6 @@ from sklearn.metrics import (
     f1_score, confusion_matrix
 )
 
-# ============================================================
-# KONFIGURASI
-# ============================================================
 DGX_URL        = "http://localhost:8003/v1/chat/completions"
 MODEL_NAME     = "qwen2.5-vl-7b-instruct"
 KONFIGURASI    = "K2 | Few-Shot Tekstual | One-Pass | Qwen2.5-VL-7B-Instruct"
@@ -25,11 +22,7 @@ OUTPUT_CSV     = f"hasil_K2_fewshot_onepass_{TIMESTAMP}.csv"
 OUTPUT_JSON    = f"hasil_K2_fewshot_onepass_{TIMESTAMP}_detail.json"
 OUTPUT_REPORT  = f"hasil_K2_fewshot_onepass_{TIMESTAMP}_report.txt"
 
-# ============================================================
-# PROMPT — FEW-SHOT ONE-PASS
-# Satu instruksi untuk kedua atribut sekaligus, dilengkapi
-# contoh deskriptif tekstual untuk masing-masing atribut.
-# ============================================================
+# Few-shot one-pass: satu instruksi untuk kedua atribut, dilengkapi contoh deskriptif tekstual.
 PROMPT_ONEPASS = """Kamu adalah analis dokumen keuangan Indonesia. Tugasmu mendeteksi dua atribut pada dokumen invoice: METERAI dan TANDA TANGAN.
 
 ---
@@ -111,9 +104,6 @@ TANDA TANGAN: Tidak Ada
 Perhatikan dokumen berikut. Jawab tepat dua baris:
 """
 
-# ============================================================
-# SESSION HTTP
-# ============================================================
 session = requests.Session()
 adapter = requests.adapters.HTTPAdapter(
     pool_connections=5,
@@ -122,9 +112,6 @@ adapter = requests.adapters.HTTPAdapter(
 )
 session.mount('http://', adapter)
 
-# ============================================================
-# KONVERSI PDF KE BASE64
-# ============================================================
 def pdf_to_images_base64(pdf_path):
     doc = fitz.open(pdf_path)
     images_b64 = []
@@ -142,9 +129,6 @@ def pdf_to_images_base64(pdf_path):
             print(f"[ERROR] Gagal konversi halaman {page_num}: {e}")
     return images_b64
 
-# ============================================================
-# API CALL — ONE-PASS (satu panggilan, dua atribut sekaligus)
-# ============================================================
 inference_times = []
 
 def _call_api(prompt_text, image_base64):
@@ -184,12 +168,8 @@ def _call_api(prompt_text, image_base64):
     return "Error: unknown"
 
 def panggil_model_vlm(image_base64):
-    """One-pass: satu panggilan untuk kedua atribut sekaligus."""
     return _call_api(PROMPT_ONEPASS, image_base64)
 
-# ============================================================
-# PARSING
-# ============================================================
 def parsing_jawaban(raw_text):
     hasil = {"meterai_prediksi": 0, "ttd_prediksi": 0}
     if not raw_text or raw_text.startswith("Error"):
@@ -204,9 +184,6 @@ def parsing_jawaban(raw_text):
             hasil["ttd_prediksi"] = 1 if ('ada' in part and not part.startswith('tidak')) else 0
     return hasil
 
-# ============================================================
-# ANALISIS MULTI-PAGE
-# ============================================================
 def analyze_multipage(pdf_path):
     images_b64 = pdf_to_images_base64(pdf_path)
     if not images_b64:
@@ -232,9 +209,6 @@ def analyze_multipage(pdf_path):
 
     return aggregated, all_results
 
-# ============================================================
-# HITUNG METRIK
-# ============================================================
 def hitung_metrik(df, gt_col, pred_col):
     y_true = df[gt_col]
     y_pred = df[pred_col]
@@ -299,9 +273,6 @@ def cetak_metrik_terminal(label, m):
             print(f"      [SALAH] {sf['file']} "
                   f"(GT={sf['gt']}, Pred={sf['pred']})")
 
-# ============================================================
-# MAIN
-# ============================================================
 if __name__ == "__main__":
     waktu_mulai = datetime.now()
     print("=" * 60)
