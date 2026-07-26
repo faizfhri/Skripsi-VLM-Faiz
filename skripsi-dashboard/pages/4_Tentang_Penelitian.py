@@ -5,6 +5,7 @@ from utils import theme as T
 
 st.set_page_config(page_title="Tentang Penelitian", layout="wide")
 T.inject_base_css()
+T.render_sidebar_credit()
 
 T.page_header(
     eyebrow="Metodologi",
@@ -156,6 +157,31 @@ st.markdown(
     Qwen2.5-VL, digunakan dalam pembahasan tetapi belum tercantum lengkap pada berkas
     referensi ini &mdash; mohon diverifikasi kembali sitasi persisnya sebelum sidang.
     </p>
+    """,
+    unsafe_allow_html=True,
+)
+
+T.section_label("Kredit")
+
+st.markdown(
+    f"""
+    <div class="panel">
+    <div style="display:flex; gap:2.5rem; flex-wrap:wrap;">
+        <div>
+            <div style="font-family:'IBM Plex Mono',monospace; font-size:0.72rem; text-transform:uppercase; letter-spacing:0.06em; color:{T.INK_MUTED}; margin-bottom:0.4rem;">Penulis</div>
+            <div style="font-size:0.92rem;">Muhammad Faiz Fahri</div>
+            <div style="font-size:0.85rem; color:{T.INK_FAINT};">NPM 140810220002</div>
+        </div>
+        <div>
+            <div style="font-family:'IBM Plex Mono',monospace; font-size:0.72rem; text-transform:uppercase; letter-spacing:0.06em; color:{T.INK_MUTED}; margin-bottom:0.4rem;">Dosen Pembimbing</div>
+            <div style="font-size:0.92rem;">Erick Paulus, S.Si., M.Kom.</div>
+            <div style="font-size:0.92rem;">Dr. Asep Sholahuddin, M.T.</div>
+        </div>
+    </div>
+    <p style="font-size:0.8rem; color:{T.INK_FAINT}; margin:0.9rem 0 0 0;">
+    Program Studi S1 Teknik Informatika, Universitas Padjadjaran.
+    </p>
+    </div>
     """,
     unsafe_allow_html=True,
 )

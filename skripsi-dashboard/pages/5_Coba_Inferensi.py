@@ -6,6 +6,7 @@ from utils import theme as T
 
 st.set_page_config(page_title="Coba Inferensi", layout="wide")
 T.inject_base_css()
+T.render_sidebar_credit()
 
 T.page_header(
     eyebrow="Coba Sendiri",

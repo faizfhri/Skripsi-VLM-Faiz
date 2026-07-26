@@ -7,6 +7,7 @@ from utils.charts import apply_theme
 
 st.set_page_config(page_title="Detail Konfigurasi", layout="wide")
 T.inject_base_css()
+T.render_sidebar_credit()
 
 T.page_header(
     eyebrow="Bab IV - Hasil dan Pembahasan",

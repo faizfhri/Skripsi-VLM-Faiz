@@ -12,6 +12,7 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 T.inject_base_css()
+T.render_sidebar_credit()
 
 T.page_header(
     eyebrow="Skripsi - Teknik Informatika, Universitas Padjadjaran",

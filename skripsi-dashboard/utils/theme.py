@@ -336,6 +336,26 @@ def inject_base_css():
     st.markdown(css, unsafe_allow_html=True)
 
 
+def render_sidebar_credit():
+    st.sidebar.markdown(
+        f"""
+        <div style="margin-top: 2rem; padding-top: 1rem; border-top: 1px solid {BORDER};
+                    font-size: 0.72rem; color: {INK_FAINT}; line-height: 1.7;">
+            <div style="font-family: 'IBM Plex Mono', monospace; text-transform: uppercase;
+                        letter-spacing: 0.06em; color: {INK_MUTED}; margin-bottom: 0.35rem;">
+                Skripsi &middot; Teknik Informatika Unpad
+            </div>
+            <div>Muhammad Faiz Fahri</div>
+            <div style="color: {INK_FAINT};">NPM 140810220002</div>
+            <div style="margin-top: 0.5rem; color: {INK_MUTED};">Dosen Pembimbing</div>
+            <div>Erick Paulus, S.Si., M.Kom.</div>
+            <div>Dr. Asep Sholahuddin, M.T.</div>
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
+
+
 def page_header(eyebrow: str, title: str, subtitle: str = ""):
     sub_html = f'<div class="page-subtitle">{subtitle}</div>' if subtitle else ""
     st.markdown(
