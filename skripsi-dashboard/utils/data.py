@@ -34,8 +34,6 @@ class ConfigMeta:
     csv_file: str
     report_file: str
     json_file: str
-    duplicate_of: str | None = None  # id konfigurasi lain yang berbagi data yang sama
-    catatan: str = ""
 
 
 CONFIGS: dict[str, ConfigMeta] = {
@@ -49,52 +47,34 @@ CONFIGS: dict[str, ConfigMeta] = {
     "K2": ConfigMeta(
         id="K2", prompting="Few-Shot", inference="One-Pass",
         model="Qwen2.5-VL-7B-Instruct", model_short="Instruct",
-        csv_file="hasil_K2K3_fewshot_onepass_20260608_222148.csv",
-        report_file="hasil_K2K3_fewshot_onepass_20260608_222148_report.txt",
-        json_file="hasil_K2K3_fewshot_onepass_20260608_222148_detail.json",
+        csv_file="hasil_K2_fewshot_onepass_20260608_222148.csv",
+        report_file="hasil_K2_fewshot_onepass_20260608_222148_report.txt",
+        json_file="hasil_K2_fewshot_onepass_20260608_222148_detail.json",
     ),
     "K3": ConfigMeta(
-        id="K3", prompting="Few-Shot", inference="One-Pass",
+        id="K3", prompting="Few-Shot", inference="Two-Pass",
         model="Qwen2.5-VL-7B-Instruct", model_short="Instruct",
-        csv_file="hasil_K2K3_fewshot_onepass_20260608_222148.csv",
-        report_file="hasil_K2K3_fewshot_onepass_20260608_222148_report.txt",
-        json_file="hasil_K2K3_fewshot_onepass_20260608_222148_detail.json",
-        duplicate_of="K2",
-        catatan="K2 dan K3 identik pada desain ablation study ini; satu proses evaluasi melayani dua peran perbandingan.",
+        csv_file="hasil_K3_20260608_201305.csv",
+        report_file="hasil_K3_20260608_201305_report.txt",
+        json_file="hasil_K3_20260608_201305_detail.json",
     ),
     "K4": ConfigMeta(
         id="K4", prompting="Few-Shot", inference="Two-Pass",
-        model="Qwen2.5-VL-7B-Instruct", model_short="Instruct",
-        csv_file="hasil_K4K6_20260608_201305.csv",
-        report_file="hasil_K4K6_20260608_201305_report.txt",
-        json_file="hasil_K4K6_20260608_201305_detail.json",
+        model="Qwen2.5-VL-7B-AWQ", model_short="AWQ",
+        csv_file="hasil_K4_20260608_225153.csv",
+        report_file="hasil_K4_20260608_225153_report.txt",
+        json_file="hasil_K4_20260608_225153_detail.json",
     ),
     "K5": ConfigMeta(
         id="K5", prompting="Few-Shot", inference="Two-Pass",
-        model="Qwen2.5-VL-7B-AWQ", model_short="AWQ",
-        csv_file="hasil_K5_20260608_225153.csv",
-        report_file="hasil_K5_20260608_225153_report.txt",
-        json_file="hasil_K5_20260608_225153_detail.json",
-    ),
-    "K6": ConfigMeta(
-        id="K6", prompting="Few-Shot", inference="Two-Pass",
-        model="Qwen2.5-VL-7B-Instruct", model_short="Instruct",
-        csv_file="hasil_K4K6_20260608_201305.csv",
-        report_file="hasil_K4K6_20260608_201305_report.txt",
-        json_file="hasil_K4K6_20260608_201305_detail.json",
-        duplicate_of="K4",
-        catatan="K4 dan K6 identik pada desain ablation study ini; satu proses evaluasi melayani dua peran perbandingan.",
-    ),
-    "K7": ConfigMeta(
-        id="K7", prompting="Few-Shot", inference="Two-Pass",
         model="Qwen3-VL-8B", model_short="Qwen3-VL",
-        csv_file="hasil_K7_20260608_231724.csv",
-        report_file="hasil_K7_20260608_231724_report.txt",
-        json_file="hasil_K7_20260608_231724_detail.json",
+        csv_file="hasil_K5_20260608_231724.csv",
+        report_file="hasil_K5_20260608_231724_report.txt",
+        json_file="hasil_K5_20260608_231724_detail.json",
     ),
 }
 
-CONFIG_ORDER = ["K1", "K2", "K3", "K4", "K5", "K6", "K7"]
+CONFIG_ORDER = ["K1", "K2", "K3", "K4", "K5"]
 
 ABLATION_STAGES = [
     {
@@ -115,7 +95,7 @@ ABLATION_STAGES = [
             "sama, untuk menguji apakah pemisahan keputusan meterai dan tanda tangan "
             "menjadi dua tahap terpisah memperbaiki presisi."
         ),
-        "anggota": ["K2", "K4"],
+        "anggota": ["K2", "K3"],
     },
     {
         "judul": "Tahap 3 - Pengaruh Pilihan Model",
@@ -125,7 +105,7 @@ ABLATION_STAGES = [
             "terbaik (few-shot, two-pass): model dasar, varian terkuantisasi AWQ, dan "
             "generasi model yang lebih baru."
         ),
-        "anggota": ["K4", "K5", "K7"],
+        "anggota": ["K3", "K4", "K5"],
     },
 ]
 
@@ -277,7 +257,6 @@ def all_configs_summary() -> pd.DataFrame:
             "rec_ttd": m["ttd"]["recall"],
             "akurasi_gabungan": m["combined_accuracy"],
             "rata_rata_per_file_detik": t["rata_rata_per_file"],
-            "duplicate_of": meta.duplicate_of,
         })
     return pd.DataFrame(rows)
 

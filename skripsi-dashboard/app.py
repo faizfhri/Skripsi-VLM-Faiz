@@ -20,7 +20,7 @@ T.page_header(
     subtitle=(
         "Evaluasi training-free menggunakan Vision-Language Model untuk mendeteksi "
         "keberadaan meterai dan tanda tangan pada dokumen invoice, dibandingkan pada "
-        "tujuh konfigurasi melalui ablation study tiga tahap: strategi prompting, "
+        "lima eksperimen melalui ablation study tiga tahap: strategi prompting, "
         "skema inferensi, dan pilihan model."
     ),
 )
@@ -105,15 +105,7 @@ with col_desc:
         )
     st.markdown("</div>", unsafe_allow_html=True)
 
-T.section_label("Ringkasan Tujuh Konfigurasi")
-
-st.markdown(
-    '<p style="color:#5B6472; font-size:0.9rem; margin-top:-0.5rem;">'
-    "K2/K3 dan K4/K6 berbagi data evaluasi yang sama karena keduanya identik dalam "
-    "desain ablation study; ditampilkan sebagai baris terpisah agar posisi perbandingan tetap jelas."
-    "</p>",
-    unsafe_allow_html=True,
-)
+T.section_label("Ringkasan Lima Eksperimen")
 
 display_df = summary.copy()
 display_df["Konfigurasi"] = display_df["id"]

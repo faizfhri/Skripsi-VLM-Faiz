@@ -26,8 +26,8 @@ st.markdown(
     tidak dilatih ulang, melainkan digunakan langsung melalui prompting untuk menilai
     keberadaan meterai dan tanda tangan pada 400 dokumen invoice. Dataset terbagi
     menjadi empat kelas berdasarkan kombinasi ada/tidaknya kedua atribut tersebut.
-    Perbandingan dilakukan melalui ablation study tiga tahap yang menghasilkan tujuh
-    konfigurasi pengujian, mengubah satu variabel pada satu waktu: strategi prompting,
+    Perbandingan dilakukan melalui ablation study tiga tahap yang menghasilkan lima
+    eksperimen pengujian, mengubah satu variabel pada satu waktu: strategi prompting,
     skema inferensi, dan pilihan model.
     </p>
     </div>
@@ -104,17 +104,17 @@ findings = [
      "Konfigurasi K1 (zero-shot) mencatat akurasi gabungan tertinggi (0.8900), hasil yang "
      "tidak sejalan dengan asumsi awal bahwa few-shot akan selalu lebih baik."),
     ("Few-shot one-pass menurunkan deteksi tanda tangan",
-     "K2/K3 (few-shot, one-pass) menghasilkan 31 false positive pada tanda tangan, jauh "
+     "K2 (few-shot, one-pass) menghasilkan 31 false positive pada tanda tangan, jauh "
      "lebih banyak dibanding 7 false positive pada K1, mengindikasikan few-shot dapat "
      "memperkenalkan bias."),
     ("Two-pass memperbaiki presisi tanda tangan",
-     "K4/K6 (two-pass) mencatat precision tanda tangan 0.9770, dibandingkan 0.8538 pada "
-     "K2/K3 (one-pass), pada strategi prompting few-shot yang sama."),
+     "K3 (two-pass) mencatat precision tanda tangan 0.9770, dibandingkan 0.8538 pada "
+     "K2 (one-pass), pada strategi prompting few-shot yang sama."),
     ("Qwen3-VL dominan pada meterai, lebih lemah pada tanda tangan",
-     "K7 mencatat F1 meterai tertinggi (0.9975), namun performa tanda tangannya tidak "
+     "K5 mencatat F1 meterai tertinggi (0.9975), namun performa tanda tangannya tidak "
      "menjadi yang terbaik, menunjukkan trade-off yang bergantung pada model."),
     ("AWQ menawarkan kecepatan dengan performa kompetitif",
-     "K5 (varian AWQ) merupakan konfigurasi tercepat dalam pengujian sambil tetap "
+     "K4 (varian AWQ) merupakan konfigurasi tercepat dalam pengujian sambil tetap "
      "mempertahankan metrik yang kompetitif terhadap model dasarnya."),
 ]
 

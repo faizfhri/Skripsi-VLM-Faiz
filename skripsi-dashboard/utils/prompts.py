@@ -1,6 +1,6 @@
 """
 Teks prompt persis seperti yang dipakai pada skrip evaluasi asli
-(K1inszero.py, K2K3insfewone.py, K4K6ins.py, K5awqfewtwo.py, K7qwen3fewtwo.py),
+(K1inszero.py, K2insfewone.py, K3ins.py, K4awqfewtwo.py, K5qwen3fewtwo.py),
 supaya hasil inferensi langsung di dashboard ini konsisten dengan hasil
 evaluasi skripsi.
 """

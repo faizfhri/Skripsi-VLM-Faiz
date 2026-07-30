@@ -12,15 +12,15 @@ from sklearn.metrics import (
     f1_score, confusion_matrix
 )
 
-DGX_URL        = "http://localhost:8002/v1/chat/completions"
-MODEL_NAME     = "qwen2.5-vl-7b-awq"
-KONFIGURASI    = "K6 | Few-Shot Tekstual | Two-Pass | Qwen2.5-VL-7B-AWQ"
+DGX_URL        = "http://localhost:8001/v1/chat/completions"
+MODEL_NAME     = "qwen3-vl-8b"
+KONFIGURASI    = "K5 | Few-Shot Tekstual | Two-Pass | Qwen3-VL-8B"
 DATASET_FOLDER = "../datasetlengkap"
 
 TIMESTAMP      = datetime.now().strftime("%Y%m%d_%H%M%S")
-OUTPUT_CSV     = f"hasil_qwen25awq_{TIMESTAMP}.csv"
-OUTPUT_JSON    = f"hasil_qwen25awq_{TIMESTAMP}_detail.json"
-OUTPUT_REPORT  = f"hasil_qwen25awq_{TIMESTAMP}_report.txt"
+OUTPUT_CSV     = f"hasil_qwen3vl_{TIMESTAMP}.csv"
+OUTPUT_JSON    = f"hasil_qwen3vl_{TIMESTAMP}_detail.json"
+OUTPUT_REPORT  = f"hasil_qwen3vl_{TIMESTAMP}_report.txt"
 
 # Two-pass: METERAI dan TANDA TANGAN dideteksi lewat dua panggilan API terpisah.
 PROMPT_METERAI = """Kamu adalah analis dokumen keuangan Indonesia. Tugasmu HANYA mendeteksi keberadaan METERAI pada dokumen invoice.

@@ -30,32 +30,18 @@ col_plate, col_note = st.columns([1, 2])
 with col_plate:
     st.markdown(T.config_plate(config_id, plate_rows), unsafe_allow_html=True)
 with col_note:
-    if meta.duplicate_of:
-        st.markdown(
-            f"""
-            <div class="panel" style="border-left:3px solid {T.GOLD};">
-                <span class="badge badge-gold">Data Bersama</span>
-                <p style="margin-top:0.5rem; font-size:0.85rem; color:{T.INK_MUTED};">
-                {meta.catatan} Angka pada halaman ini identik dengan konfigurasi
-                <b>{meta.duplicate_of}</b>.
-                </p>
-            </div>
-            """,
-            unsafe_allow_html=True,
-        )
-    else:
-        st.markdown(
-            f"""
-            <div class="panel">
-                <p style="font-size:0.85rem; color:{T.INK_MUTED}; margin:0;">
-                Seluruh metrik pada halaman ini dihitung langsung dari berkas CSV hasil
-                prediksi untuk konfigurasi {config_id}, dibandingkan terhadap label ground
-                truth pada empat kelas dataset.
-                </p>
-            </div>
-            """,
-            unsafe_allow_html=True,
-        )
+    st.markdown(
+        f"""
+        <div class="panel">
+            <p style="font-size:0.85rem; color:{T.INK_MUTED}; margin:0;">
+            Seluruh metrik pada halaman ini dihitung langsung dari berkas CSV hasil
+            prediksi untuk konfigurasi {config_id}, dibandingkan terhadap label ground
+            truth pada empat kelas dataset.
+            </p>
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
 
 T.section_label("Ringkasan Metrik")
 

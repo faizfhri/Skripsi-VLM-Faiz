@@ -12,7 +12,7 @@ T.page_header(
     eyebrow="Coba Sendiri",
     title="Inferensi Langsung",
     subtitle=(
-        "Pilih salah satu dari tujuh konfigurasi, unggah dokumen invoice dalam "
+        "Pilih salah satu dari lima konfigurasi, unggah dokumen invoice dalam "
         "format PDF, lalu jalankan inferensi langsung ke server VLM untuk melihat "
         "hasil deteksi meterai dan tanda tangan secara nyata."
     ),

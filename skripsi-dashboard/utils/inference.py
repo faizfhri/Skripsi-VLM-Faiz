@@ -29,11 +29,9 @@ class InferenceEndpoint:
 INFERENCE_ENDPOINTS: dict[str, InferenceEndpoint] = {
     "K1": InferenceEndpoint("http://localhost:8003/v1/chat/completions", "qwen2.5-vl-7b-instruct", "one-pass"),
     "K2": InferenceEndpoint("http://localhost:8003/v1/chat/completions", "qwen2.5-vl-7b-instruct", "one-pass"),
-    "K3": InferenceEndpoint("http://localhost:8003/v1/chat/completions", "qwen2.5-vl-7b-instruct", "one-pass"),
-    "K4": InferenceEndpoint("http://localhost:8003/v1/chat/completions", "qwen2.5-vl-7b-instruct", "two-pass"),
-    "K5": InferenceEndpoint("http://localhost:8002/v1/chat/completions", "qwen2.5-vl-7b-awq", "two-pass"),
-    "K6": InferenceEndpoint("http://localhost:8003/v1/chat/completions", "qwen2.5-vl-7b-instruct", "two-pass"),
-    "K7": InferenceEndpoint("http://localhost:8001/v1/chat/completions", "qwen3-vl-8b", "two-pass"),
+    "K3": InferenceEndpoint("http://localhost:8003/v1/chat/completions", "qwen2.5-vl-7b-instruct", "two-pass"),
+    "K4": InferenceEndpoint("http://localhost:8002/v1/chat/completions", "qwen2.5-vl-7b-awq", "two-pass"),
+    "K5": InferenceEndpoint("http://localhost:8001/v1/chat/completions", "qwen3-vl-8b", "two-pass"),
 }
 
 

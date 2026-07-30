@@ -14,7 +14,7 @@ from sklearn.metrics import (
 
 DGX_URL        = "http://localhost:8003/v1/chat/completions"
 MODEL_NAME     = "qwen2.5-vl-7b-instruct"
-KONFIGURASI    = "K6 | Few-Shot Tekstual | Two-Pass | Qwen2.5-VL-7B-Instruct"
+KONFIGURASI    = "K3 | Few-Shot Tekstual | Two-Pass | Qwen2.5-VL-7B-Instruct"
 DATASET_FOLDER = "../datasetlengkap"
 
 TIMESTAMP      = datetime.now().strftime("%Y%m%d_%H%M%S")
